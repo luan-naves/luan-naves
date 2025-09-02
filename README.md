@@ -35,8 +35,11 @@
 
 ## 📂 projetos
 [projeto devlinks](https://github.com/luan-naves/projetorocketseatdevlink): cartão de visita com links personalizados, desenvolvido com HTML, CSS, JavaScript, Git, GitHub e Figma. <br>
+
 [jogo do número secreto](https://github.com/luan-naves/jogo-do-numero-secreto): jogo simples de adivinhação de número, criado como atividade do curso Alura utilizando HTML, CSS e JavaScript. <br>
+
 [site bicicleta black & white](https://github.com/luan-naves/projeto-site-bicicleta-black-white): site fictício de loja de bicicletas, desenvolvido com HTML e CSS. <br>
+
 [conversor de moedas](https://github.com/luan-naves/currency-converter): projeto em andamento de conversor de moedas, utilizando Java, Spring Boot e consumo de API. <br>
 
 ## informações adicionais
